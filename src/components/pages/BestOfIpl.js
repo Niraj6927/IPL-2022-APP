@@ -22,11 +22,11 @@ const videoList = [
     animation: "zoom-in-down",
   },
   {
-    src: "https://www.youtube.com/embed/I3ZmmI-5UyI",
+    src: "https://www.jiocinema.com/sports/venkatesh-s-104-vs-mi/3726238",
     animation: "zoom-in-down",
   },
   {
-    src: "https://www.youtube.com/embed/LMz1ROd7P7g?start=10",
+    src: "https://www.jiocinema.com/sports/kishan-s-58-vs-kkr/3726300",
     animation: "zoom-in-up",
   },
   {
@@ -42,32 +42,51 @@ const videoList = [
     animation: "zoom-in-up",
   },
   {
-    src: "https://www.youtube.com/embed/oCxkUWRk8dA",
+    src: "https://jiocinema.onelink.me/fRhd/h7xwkroh",
     animation: "zoom-in-down",
   },
   {
-    src: "https://www.youtube.com/embed/sYoEofesPac",
+    src: "https://jiocinema.onelink.me/fRhd/gz5d8u18",
     animation: "zoom-in-down",
   },
-  { src: "https://www.youtube.com/embed/30_1741woZc", animation: "zoom-in-up" },
+  {
+    src: "https://jiocinema.onelink.me/fRhd/vkw1i5x0",
+    animation: "zoom-in-up",
+  },
   {
     src: "https://www.youtube.com/embed/-zXtUt5sV8M",
     animation: "zoom-in-down",
   },
   {
-    src: "https://www.youtube.com/embed/C4iLVrrnB2A",
+    src: "https://jiocinema.onelink.me/fRhd/zyp46h2o",
     animation: "zoom-in-down",
   },
   {
-    src: "https://www.youtube.com/embed/lIFodRLSdy0?start=12",
+    src: "https://jiocinema.onelink.me/fRhd/wtailgoa",
     animation: "zoom-in-up",
   },
   {
-    src: "https://www.youtube.com/embed/zL7x55VEtB4",
+    src: "https://jiocinema.onelink.me/fRhd/e2qcus08",
     animation: "zoom-in-down",
   },
   {
     src: "https://www.youtube.com/embed/hv_MFT__hyY",
+    animation: "zoom-in-down",
+  },
+  {
+    src: "https://jiocinema.onelink.me/fRhd/c5oxqpo2",
+    animation: "zoom-in-down",
+  },
+  {
+    src: "https://jiocinema.onelink.me/fRhd/798lykje",
+    animation: "zoom-in-down",
+  },
+  {
+    src: "https://jiocinema.onelink.me/fRhd/f9in7d4b",
+    animation: "zoom-in-down",
+  },
+  {
+    src: "https://jiocinema.onelink.me/fRhd/blonc6j0",
     animation: "zoom-in-down",
   },
 ];

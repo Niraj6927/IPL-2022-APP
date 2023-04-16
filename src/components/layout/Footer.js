@@ -47,13 +47,13 @@ const Footer = () => {
     <footer className={classes.footer}>
       <Grid container sx={{ width: "90%", mx: "auto" }}>
         <Grid item xs={12} sm={6} className={classes.grid}>
-          <p>JayeshChoudhary </p>
+          <p>NirajCoder </p>
           <CopyrightIcon fontSize="small" />
-          <span>2022</span>
+          <span>2023</span>
         </Grid>
         <Grid item xs={12} sm={6} className={classes.social}>
           <a
-            href="https://www.linkedin.com/in/jayesh-choudhary-72444518b/"
+            href="https://www.linkedin.com/in/niraj-kumar-sharma-08b88926a/"
             target="_blank"
             rel="noopener noreferrer"
             className={classes.anchor}
@@ -69,7 +69,7 @@ const Footer = () => {
             <LanguageIcon />
           </a>
           <a
-            href="https://www.instagram.com/insta__jc/"
+            href="https://www.instagram.com/niraj3706/"
             target="_blank"
             rel="noopener noreferrer"
             className={classes.anchor}
@@ -77,20 +77,12 @@ const Footer = () => {
             <InstagramIcon />
           </a>
           <a
-            href="https://github.com/jayesh2906"
+            href="https://github.com/Niraj6927"
             target="_blank"
             rel="noopener noreferrer"
             className={classes.anchor}
           >
             <GitHubIcon />
-          </a>
-          <a
-            href="https://www.facebook.com/jayesh.choudhary.9461"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={classes.anchor}
-          >
-            <FacebookIcon />
           </a>
         </Grid>
       </Grid>
